@@ -1,0 +1,11 @@
+D:\Freigabe\Projekte\asp002\HalloWeb\HalloWeb\bin\Debug\netcoreapp2.0\HalloWeb.deps.json
+D:\Freigabe\Projekte\asp002\HalloWeb\HalloWeb\bin\Debug\netcoreapp2.0\HalloWeb.runtimeconfig.json
+D:\Freigabe\Projekte\asp002\HalloWeb\HalloWeb\bin\Debug\netcoreapp2.0\HalloWeb.runtimeconfig.dev.json
+D:\Freigabe\Projekte\asp002\HalloWeb\HalloWeb\bin\Debug\netcoreapp2.0\HalloWeb.dll
+D:\Freigabe\Projekte\asp002\HalloWeb\HalloWeb\bin\Debug\netcoreapp2.0\HalloWeb.pdb
+D:\Freigabe\Projekte\asp002\HalloWeb\HalloWeb\obj\Debug\netcoreapp2.0\HalloWeb.csprojResolveAssemblyReference.cache
+D:\Freigabe\Projekte\asp002\HalloWeb\HalloWeb\obj\Debug\netcoreapp2.0\HalloWeb.csproj.CoreCompileInputs.cache
+D:\Freigabe\Projekte\asp002\HalloWeb\HalloWeb\obj\Debug\netcoreapp2.0\HalloWeb.AssemblyInfoInputs.cache
+D:\Freigabe\Projekte\asp002\HalloWeb\HalloWeb\obj\Debug\netcoreapp2.0\HalloWeb.AssemblyInfo.cs
+D:\Freigabe\Projekte\asp002\HalloWeb\HalloWeb\obj\Debug\netcoreapp2.0\HalloWeb.dll
+D:\Freigabe\Projekte\asp002\HalloWeb\HalloWeb\obj\Debug\netcoreapp2.0\HalloWeb.pdb
