@@ -26,7 +26,7 @@ namespace MvcMovie.Controllers
 
         public string Welcome2()
         {
-            return "This is the Welcome action method...";
+            return "Das ist die Willkommen Aktion Ansicht...";
         }
     }
 }
